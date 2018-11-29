@@ -9,6 +9,9 @@
 <p><b>Paso 8:</b> enjoy!</p>
 <p></p>
 <p><b>Apunte:</b> Si quieres modificar algo en vue (las animaciones por ejemplo) recuerda tener primero encendido el watcher de npm con: npm run watch</p>
+<p>También puedes acceder al panel de administración si te apetece revisar el backend desde la ruta /admin</p>
+<p>User: ivan@latevaweb.com</p>
+<p>Password: demo1234</p>
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
