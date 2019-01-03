@@ -1,3 +1,6 @@
+CMS creado con laravel y vue.js. Ha sido utilizado como base para diversos proyectos.
+
+
 <h1>NOTAS DE INSTALACIÓN</p>
 <p><b>Paso 1:</b> instalar dependencias de composer con: composer install</p>
 <p><b>Paso 2:</b> instalar dependencias de npm con: npm install</p>
@@ -10,7 +13,7 @@
 <p></p>
 <p><b>Apunte:</b> Si quieres modificar algo en vue (las animaciones por ejemplo) recuerda tener primero encendido el watcher de npm con: npm run watch</p>
 <p>También puedes acceder al panel de administración si te apetece revisar el backend desde la ruta /admin</p>
-<p>User: ivan@latevaweb.com</p>
+<p>User: demo@demo.com</p>
 <p>Password: demo1234</p>
 
 
