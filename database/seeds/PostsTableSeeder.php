@@ -64,7 +64,7 @@ class PostsTableSeeder extends Seeder
 
         $admin = new User;
         $admin->name = "Admin";
-        $admin->email = "ivan@latevaweb.com";
+        $admin->email = "demo@demo.com";
         $admin->password = 'demo1234';
         $admin->created_at = '2018-08-15 00:00:00';
         $admin->updated_at = '2018-08-22 00:00:00';
